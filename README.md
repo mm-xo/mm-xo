@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋 I'm MM!
+### This "about me" is left as an exercise for the reader
+
 
 <!--
 **mm-xo/mm-xo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
